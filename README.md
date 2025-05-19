@@ -5,7 +5,7 @@ This is a simple Internet of Things (IoT) project to control a mobile robot base
 ---
 
 ## 🔗 Live Demo  
-[Click here to open the control interface](https://wael-a-alghamdi.github.io/Mobile-robot-base-internet-of-things-project-2/index.html)
+[Click here to open the control interface](https://wael-a-alghamdi.github.io/Mobile-robot-base/index.html)
 
 ---
 
