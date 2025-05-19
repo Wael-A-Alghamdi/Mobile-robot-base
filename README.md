@@ -4,12 +4,12 @@ This is a simple Internet of Things (IoT) project to control a mobile robot base
 
 ---
 
-## 🔗 Live Demo  
+##  Live Demo  
 [Click here to open the control interface](https://wael-a-alghamdi.github.io/Mobile-robot-base/index.html)
 
 ---
 
-## 🔧 Tech Used  
+##  Tech Used  
 - HTML  
 - CSS  
 - PHP  
@@ -18,7 +18,7 @@ This is a simple Internet of Things (IoT) project to control a mobile robot base
 
 ---
 
-## ⚙️ Features  
+##  Features  
 - Five control buttons: Forward, Left, Right, Stop, Backward  
 - Stores each movement in a MySQL table  
 - Fetches and displays the last recorded movement  
@@ -27,7 +27,7 @@ This is a simple Internet of Things (IoT) project to control a mobile robot base
 
 ---
 
-## 📝 Notes  
+##  Notes  
 - Requires a local server to run `connect.php` and `select_movement.php`  
 - SQL file `mobile_robot_base_project_2_database.sql` creates the required table  
 - Background image is referenced as `html_background_image.jpg`  
@@ -35,7 +35,7 @@ This is a simple Internet of Things (IoT) project to control a mobile robot base
 
 ---
 
-## 📁 Files  
+##  Files  
 - `index.html` – Control interface  
 - `connect.php` – Saves button input to the database  
 - `select_movement.php` – Fetches the last movement value  
@@ -44,7 +44,7 @@ This is a simple Internet of Things (IoT) project to control a mobile robot base
 
 ---
 
-## 🧾 Project Overview (Arabic + English)
+##  Project Overview (Arabic + English)
 
 ### 1. إنشاء واجهة التحكم – Create (HTML & CSS) Page  
 أنشأت صفحة تحكم تتكون من خمسة أزرار: Forward, Left, Right, Stop, Backward، مع تنسيق كامل باستخدام CSS.  
